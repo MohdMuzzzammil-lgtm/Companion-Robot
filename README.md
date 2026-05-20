@@ -10,7 +10,10 @@ An AI-powered autonomous two-wheeled robot that uses a **Samsung smartphone as i
 
 ## 📸 Demo
 
-> *(Add your robot photos/video here)*
+![Companion Robot](WhatsApp%20Image%202026-05-20%20at%203.02.37%20PM.jpeg)
+![Companion Robot](WhatsApp%20Image%202026-05-20%20at%203.02.38%20PM.jpeg)
+![Companion Robot](WhatsApp%20Image%202026-05-20%20at%203.02.38%20PM(1).jpeg)
+![Companion Robot](image.png)
 
 ---
 
@@ -271,6 +274,3 @@ GET /displaymode?on=0   unlock wheels
 MIT License — free to use, modify, and share.
 
 ---
-
-*Built at Muffakham Jah College of Engineering and Technology, Hyderabad*
-*Mechanical Engineering Department — Project Expo 2026*
