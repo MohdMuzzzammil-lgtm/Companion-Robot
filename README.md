@@ -10,11 +10,10 @@ An AI-powered autonomous two-wheeled robot that uses a **Samsung smartphone as i
 
 ## 📸 Demo
 
-![Companion Robot](WhatsApp%20Image%202026-05-20%20at%203.02.37%20PM.jpeg)
-![Companion Robot](WhatsApp%20Image%202026-05-20%20at%203.02.38%20PM.jpeg)
-![Companion Robot](WhatsApp%20Image%202026-05-20%20at%203.02.38%20PM(1).jpeg)
-![Companion Robot](image.png)
-
+![Companion Robot](demo image 1)
+![Companion Robot](demo image 2.jpeg)
+![Companion Robot](demo image 4.png)
+![Companion Robot](demo image 3.jpeg)
 ---
 
 ## ✨ Features
